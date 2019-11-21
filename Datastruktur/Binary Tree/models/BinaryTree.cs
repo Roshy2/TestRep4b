@@ -17,6 +17,7 @@ namespace Binary_Tree.models
         {
             this._root = new BinaryTreeItem(Item, null, null, 1);
         }
+        public int Tiktok;
         
         //Methode Add
         public bool Add(int itemToAdd)
