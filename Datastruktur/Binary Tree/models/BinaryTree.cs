@@ -19,6 +19,7 @@ namespace Binary_Tree.models
         }
         public int tiktok;
 
+        public int tutut;
         //Methode Add
         public bool Add(int itemToAdd)
         {
