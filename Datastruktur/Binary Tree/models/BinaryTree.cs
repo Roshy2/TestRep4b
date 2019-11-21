@@ -18,7 +18,7 @@ namespace Binary_Tree.models
             this._root = new BinaryTreeItem(Item, null, null, 1);
         }
 
-        pubic int tutut;
+        public int tutut;
         //Methode Add
         public bool Add(int itemToAdd)
         {
